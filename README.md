@@ -5,6 +5,8 @@ This repository contains a project for predicting gold prices using a Linear Reg
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikit-learn)
+![Linear-Regression](https://img.shields.io/badge/Linear--Regression-Model-red?style=for-the-badge)
+  
 
 - `linear-regression`
 - `machine-learning`
