@@ -1,3 +1,5 @@
+# Link to Google colab notebook(ipynb) file : https://colab.research.google.com/drive/14xttmQZ5f6i4EyBETyt_i9kV0ryF0g3e?usp=sharing
+
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import StandardScaler
