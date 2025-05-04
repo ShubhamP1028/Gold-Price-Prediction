@@ -81,7 +81,7 @@ We use **Linear Regression** to predict the `Close` price based on engineered fe
 
 
 ## ✍️ Author
-- **Shubham** – [LinkedIn](https://linkedin.com/newbieshubham) | [Email](mailto:shubham30p@gmail.com)
+ [LinkedIn](https://linkedin.com/newbieshubham) | [Email](mailto:shubham30p@gmail.com)
 
 ## 📄 License
 This project is licensed under the MIT License.
